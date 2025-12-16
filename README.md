@@ -1,10 +1,5 @@
-# help_desk2
-api
-Sistema HelpDesk - Frontend + API
-Proyecto Mesa de Ayuda (HelpDesk)
-Incluye Frontend (HTML, CSS, JS) y consumo del API REST.
 
-1. Frontend
+
 login.html
 
 <form>
